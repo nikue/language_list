@@ -22213,7 +22213,7 @@
   :iso_639_3: kaz
   :iso_639_2b: kaz
   :iso_639_2t: kaz
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kalarko
